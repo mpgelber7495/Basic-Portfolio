@@ -13,8 +13,17 @@
   background-color: #ffffff;
   width: 960px;
   height: 90px;
+  display: flex;
+  align-items: center;
 }
 
+.nav-list-shell {
+  list-style: none;
+  text-align: right;
+}
+nav ul li {
+  display: inline-block;
+}
 .nav-item {
   float: right;
   margin-left: 15px;
