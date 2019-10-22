@@ -40,6 +40,8 @@ header {
 }
 .nav-item {
   margin-left: 15px;
+  text-decoration: none;
+  color: #777777;
 }
 .clearfix {
   content: "";
