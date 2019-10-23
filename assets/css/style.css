@@ -16,7 +16,7 @@ header {
   background-color: #4aaaa5;
   width: 160px;
   float: left;
-  padding: 32px 30px 32px 30px;
+  padding: 31px 30px 32px 30px;
   margin: 0px 0px 0px 0px;
 
   font-family: "Georgia", Times, Times New Roman, serif;
@@ -35,14 +35,44 @@ header {
   margin-top: 36px;
   margin-bottom: 36px;
 }
+
 .nav-list-shell li {
   display: inline-block;
 }
+
 .nav-item {
   margin-left: 15px;
   text-decoration: none;
   color: #777777;
 }
+
+/* general body formatting */
+
+.main-container {
+  width: 100%;
+}
+
+.content-container {
+  text-align: center;
+  background-color: #ffffff;
+  width: 960px;
+  height: 90px;
+  margin: auto;
+}
+
+.main-content-header {
+  text-align: left;
+}
+
+.main-item {
+  float: left;
+}
+
+p.main-item {
+  width: 500px;
+  text-align: left;
+}
+
 .clearfix {
   content: "";
   clear: both;
