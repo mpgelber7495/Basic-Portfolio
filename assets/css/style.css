@@ -114,3 +114,21 @@ img.main-item {
   content: "";
   clear: both;
 }
+
+/* Styling for contact page */
+.main-form {
+  text-align: left;
+  margin: 0px 25px 0px 25px;
+}
+
+.form-input {
+  width: 100%;
+  margin-top: 4px;
+  margin-bottom: 13px;
+}
+
+#submit-button {
+  color: white;
+  background-color: #4aaaa5;
+  padding: 4px 20px 4px 20px;
+}
