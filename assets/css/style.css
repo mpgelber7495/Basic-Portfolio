@@ -125,6 +125,8 @@ img.main-item {
   width: 100%;
   margin-top: 4px;
   margin-bottom: 13px;
+  padding: 3px;
+  color: #777777;
 }
 
 #submit-button {
