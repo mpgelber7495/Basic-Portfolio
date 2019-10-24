@@ -98,3 +98,19 @@ img.main-item {
   clear: both;
   display: table;
 }
+
+/* Styling specific to the portfolio page */
+.project-holder {
+  margin: 0px 0px 18px 25px;
+}
+
+.project-name {
+  padding: auto;
+  color: white;
+  background-color: #4aaaa5;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+}
